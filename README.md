@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m a software engineer with a curious mindset.
+[![Femi's GitHub stats](https://github-readme-stats.vercel.app/api?username=femi-id)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 <!--
 **Femi-ID/femi-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
