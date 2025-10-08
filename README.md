@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🌱 I’m a software engineer with a curious mindset.
-[![Femi's GitHub stats](https://github-readme-stats.vercel.app/api?username=femi-id)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+🌱 I’m a software engineer with a curious mindset.
+[![Femi's GitHub stats](https://github-readme-stats.vercel.app/api?username=femi-id)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 
+[![Femi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=femi-id&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Femi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=femi-id&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--
 **Femi-ID/femi-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
