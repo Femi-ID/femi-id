@@ -1,6 +1,6 @@
 ## Hi there, I'm Femi Idowu👋
 🌱 Software engineer with a curious mindset, sharing my journey and building real world solutions.<br/>
-🔭 Currently learning system design techniques and database architectures.</br>
+🔭 Love implementing system design techniques and various software architectures.</br>
 📫 How to reach me **femiidowu28@gmail.com** </br>
 
 ## 👨‍💻 Stacks<br/>
